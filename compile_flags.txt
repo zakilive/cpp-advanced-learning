@@ -1,0 +1,4 @@
+-IC:\Users\Zaki\Desktop\cpp-advanced\cpp-advanced\ConstantsChallenge
+-std=c++17
+-target
+
